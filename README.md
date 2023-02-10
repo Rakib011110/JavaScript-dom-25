@@ -2,8 +2,8 @@
 
 ### what is Dom ?
 
-    -[demo](#demo)
-    -[Dom](#Dom)
+    - [demo](#demo)
+    - [Dom](#Dom)
 
 ### demo
 
@@ -21,13 +21,13 @@
 
 </details>
 ### Dom
-
-    < details >
+ < details >
 
 <summary>
   <h3>What is Dom ? (Click Me)</h3>
 </summary>
 <br >
+
 The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
 
 ```js
@@ -58,13 +58,14 @@ The Document Object Model (DOM) is a programming interface for web documents. It
 
 ### dom
 
-    < details >
+< details >
 
 <summary>
   <h3>The HTML DOM Tree of Objects
 ? (Click Me)</h3>
 </summary>
 <br >
+
 - With the object model, JavaScript gets all the power it needs to create dynamic HTML:
 
 - JavaScript can change all the HTML elements in the page
