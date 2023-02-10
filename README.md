@@ -2,13 +2,11 @@
 
 ### what is Dom ?
 
-    - [demo](#demo)
-    - [Dom](#Dom)
+- [javaScript-dom](#javaScript-dom)
 
 ### demo
 
-    < details >
-
+<details>
 <summary>
   <h3>What is ? (Click Me)</h3>
 </summary>
@@ -21,9 +19,9 @@
 
 </details>
 
-### Dom
+### javaScript-dom
 
-< details >
+<details>
 
 <summary>
   <h3>What is Dom ? (Click Me)</h3>
@@ -58,9 +56,7 @@ The Document Object Model (DOM) is a programming interface for web documents. It
 
 ```
 
-### dom
-
-< details >
+<details>
 
 <summary>
   <h3>The HTML DOM Tree of Objects
