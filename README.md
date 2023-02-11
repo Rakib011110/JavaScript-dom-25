@@ -36,7 +36,7 @@ The Document Object Model (DOM) is a programming interface for web documents. It
 
 </details>
 
-    < details >
+<details>
 
 <summary>
   <h3>What is the HTML DOM?
@@ -55,6 +55,8 @@ The Document Object Model (DOM) is a programming interface for web documents. It
 ```js
 
 ```
+
+</details>
 
 <details>
 

@@ -24,7 +24,7 @@
         praesentium?
       </p>
     </header>
-    <main>
+    <main id="main-container">
       <section>
         <h1>My Awesome Dom</h1>
         <ul>
@@ -44,18 +44,16 @@
         </ul>
       </section>
 
-      <section>
+      <section id="places-container">
         <h2 id="place-title">li like to vist</h2>
 
-        <ul>
+        <ul id="places-list">
           <li class="importatant-Place">sundorban</li>
           <li class="importatant-Place">coxBazar</li>
           <li class="importatant-Place">kataban</li>
         </ul>
       </section>
     </main>
-
-    <script src="js/dom.js"></script>
 
     <script>
       const liCollection = document.getElementsByTagName("li");
@@ -74,17 +72,21 @@
 
       const places = document.getElementsByClassName("importatant-Place");
       for (const place of places) {
-        console.log(place.innerText);
+        // console.log(place.innerText);
       }
       //  QuarySectorAll
       const someLi = document.querySelectorAll(".fruit-container li");
       for (const li of someLi) {
-        console.log(li.innerText);
+        // console.log(li.innerText);
       }
       const firstLi = document.querySelector(".fruit-container li");
       for (const li of someLi) {
-        console.log(li.innerText);
+        // console.log(li.innerText);
       }
     </script>
+
+    <script src="js/dom.js"></script>
+    <script src="js/style.js"></script>
+    <script src="append.js"></script>
   </body>
 </html>
